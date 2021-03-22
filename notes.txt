@@ -4,3 +4,8 @@ https://github.com/devias-io/material-kit-react
 
 //Host App from git to.
 https://vercel.com/zasminpatel/aganimation
+
+
+//React Admin Templates
+https://flatlogic.github.io/react-material-admin/#/app/dashboard
+https://github.com/flatlogic/react-material-admin
